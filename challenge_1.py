@@ -3,6 +3,7 @@
 import numpy as numpy
 import matplotlib.pyplot as plt
 
+#   CREATE THE NUMPY ARRAY
 data = numpy.arange(0, 21, 1, int)
 #   CALCULATE THE MEAN
 mean = numpy.mean(data)
